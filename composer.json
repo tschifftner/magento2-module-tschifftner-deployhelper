@@ -1,6 +1,6 @@
 {
     "name": "tschifftner/magento2-module-tschifftner-deployhelper",
-    "description": "Collection of scripts for Magento 2 builds and deployments",
+    "description": "Deploy Helper for magento2-deployscripts and Magento 2",
     "type": "magento2-module",
     "version": "100.0.1",
     "license": [
